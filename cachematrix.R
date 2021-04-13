@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## 40 character SHA-1 hash (as string of numbers from 0-9 and letters from a-f)
 
 makeCacheMatrix <- function(x = matrix()) {
 
